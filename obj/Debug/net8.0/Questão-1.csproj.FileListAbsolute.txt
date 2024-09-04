@@ -1,0 +1,14 @@
+C:\Users\Windows 10 Pro\Desktop\Questão 1- Estágio\Questão-1\bin\Debug\net8.0\Questão-1.exe
+C:\Users\Windows 10 Pro\Desktop\Questão 1- Estágio\Questão-1\bin\Debug\net8.0\Questão-1.deps.json
+C:\Users\Windows 10 Pro\Desktop\Questão 1- Estágio\Questão-1\bin\Debug\net8.0\Questão-1.runtimeconfig.json
+C:\Users\Windows 10 Pro\Desktop\Questão 1- Estágio\Questão-1\bin\Debug\net8.0\Questão-1.dll
+C:\Users\Windows 10 Pro\Desktop\Questão 1- Estágio\Questão-1\bin\Debug\net8.0\Questão-1.pdb
+C:\Users\Windows 10 Pro\Desktop\Questão 1- Estágio\Questão-1\obj\Debug\net8.0\Questão-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10 Pro\Desktop\Questão 1- Estágio\Questão-1\obj\Debug\net8.0\Questão-1.AssemblyInfoInputs.cache
+C:\Users\Windows 10 Pro\Desktop\Questão 1- Estágio\Questão-1\obj\Debug\net8.0\Questão-1.AssemblyInfo.cs
+C:\Users\Windows 10 Pro\Desktop\Questão 1- Estágio\Questão-1\obj\Debug\net8.0\Questão-1.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10 Pro\Desktop\Questão 1- Estágio\Questão-1\obj\Debug\net8.0\Questão-1.dll
+C:\Users\Windows 10 Pro\Desktop\Questão 1- Estágio\Questão-1\obj\Debug\net8.0\refint\Questão-1.dll
+C:\Users\Windows 10 Pro\Desktop\Questão 1- Estágio\Questão-1\obj\Debug\net8.0\Questão-1.pdb
+C:\Users\Windows 10 Pro\Desktop\Questão 1- Estágio\Questão-1\obj\Debug\net8.0\Questão-1.genruntimeconfig.cache
+C:\Users\Windows 10 Pro\Desktop\Questão 1- Estágio\Questão-1\obj\Debug\net8.0\ref\Questão-1.dll
